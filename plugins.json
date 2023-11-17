@@ -4,7 +4,7 @@
     "hash": "CEE531C5B2459C1F14255BA398E96F3403E5B5AB3DE0C370DA522FA3E805E002",
     "size": 57011,
     "plugins": [
-      "ca.arnah.runelite.HijackCustomizePlugin"
+      "menuentryswapperextended.MenuEntrySwapperExtendedPlugin"
     ],
     "displayName": "TESTING",
     "description": "",
